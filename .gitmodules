@@ -1,0 +1,3 @@
+[submodule "Publications/DPC++"]
+	path = Publications/DPC++
+	url = https://github.com/Apress/data-parallel-CPP.git
